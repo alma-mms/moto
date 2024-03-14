@@ -4,6 +4,7 @@ header {
     background-color: rgb(243, 169, 213);
     flex-wrap: nowrap;
     justify-content: center;
+    width: 100%;
 }
 
 a {
